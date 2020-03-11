@@ -1,0 +1,12 @@
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Release\Form1.resx
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Release\Form1.cs
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Release\Form1.Designer.cs
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Release\Program.cs
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Release\Galmun_V2.exe
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Release\Galmun_V2.pdb
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Release\ResolveAssemblyReference.cache
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Release\Galmun_V2.Form1.resources
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Release\Galmun_V2.Properties.Resources.resources
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Release\Galmun_V2.csproj.GenerateResource.Cache
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Release\Galmun_V2.exe
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Release\Galmun_V2.pdb

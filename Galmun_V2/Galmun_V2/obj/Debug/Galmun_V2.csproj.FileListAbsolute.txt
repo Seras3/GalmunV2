@@ -1,0 +1,26 @@
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\bin\Debug\Galmun_V2.exe
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\bin\Debug\Galmun_V2.pdb
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\obj\Debug\Galmun_V2.Form1.resources
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\obj\Debug\Galmun_V2.Properties.Resources.resources
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\obj\Debug\Galmun_V2.csproj.GenerateResource.Cache
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\obj\Debug\Galmun_V2.exe
+C:\Users\seras\AppData\Local\Temporary Projects\Galmun_V2\obj\Debug\Galmun_V2.pdb
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.exe
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.pdb
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Debug\Form1.resx
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Debug\Form1.cs
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Debug\Form1.Designer.cs
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Debug\Program.cs
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Debug\Galmun_V2.exe
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\bin\Debug\Galmun_V2.pdb
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.Form1.resources
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.Properties.Resources.resources
+E:\C#\Adi_apps\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.csproj.GenerateResource.Cache
+E:\GitHub-repos\GalmunV2\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.exe
+E:\GitHub-repos\GalmunV2\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.pdb
+E:\GitHub-repos\GalmunV2\Galmun_V2\Galmun_V2\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub-repos\GalmunV2\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.Form1.resources
+E:\GitHub-repos\GalmunV2\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.Properties.Resources.resources
+E:\GitHub-repos\GalmunV2\Galmun_V2\Galmun_V2\obj\Debug\Galmun_V2.csproj.GenerateResource.Cache
